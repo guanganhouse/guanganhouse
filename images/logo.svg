@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="56" viewBox="0 0 250 56" role="img" aria-labelledby="t d">
+  <title id="t">Guanganhouse Logo</title>
+  <desc id="d">Guang'an Maihaofang Network Technology Co., Ltd logo</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2e2c0"/>
+      <stop offset="100%" stop-color="#c9a66f"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="48" height="48" rx="9" fill="#0f1b2d" stroke="url(#g)"/>
+  <path d="M12 31L25 14L38 31" fill="none" stroke="url(#g)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16 31V22H34V31" fill="none" stroke="url(#g)" stroke-width="2.1"/>
+  <text x="58" y="22" fill="#f5f1e8" font-size="15" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1">GUANGANHOUSE</text>
+  <text x="58" y="39" fill="#b8c3d9" font-size="9" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.8">MAIHAOFANG NETWORK TECHNOLOGY</text>
+</svg>
